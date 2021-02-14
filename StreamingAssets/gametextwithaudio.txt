@@ -1,0 +1,4 @@
+idevent	speaker	text	nextevent	LastEventInSequence	imageAsset	audioAsset
+0	Player	Welcome to the game world!	1	N	PlayerDialogueImage	randomsound1	$%
+1	Player	Let's start the Journey!	2	Y	PlayerDialogueImageMove	randomsound2	$%
+2	Player	Congratulations! You did a great JOB!	-1	Y	PlayerDialogueImageTired	randomsound3	$%
